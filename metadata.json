@@ -1,0 +1,6 @@
+{
+  "name": "Sai Darshan Tour & Travel",
+  "description": "Premium travel agency in Shirdi, Maharashtra, specializing in pilgrimage tourism, temple tours, luxury cab rentals, and custom family travel packages.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
